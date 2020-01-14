@@ -1,0 +1,59 @@
+
+* { 
+  margin: 0px; 
+  padding: 0px; 
+}
+
+#title-text {
+  background-color: black;
+  color: white;
+  height: 40px;
+  width: 100%;
+  font-size: 25px;
+  text-align: center;
+}
+
+.notes {
+  margin-left: 35px;
+  display: flex;
+}
+
+#second {
+  margin-left: 30px;
+  font-size: 80%;
+  line-height: 30px;
+}
+
+#new_text {
+  display: flex;
+  justify-content: space-around;
+}
+
+#the_html_body {
+  height: 500px;
+  width: 568.5px;
+  border-radius: 5px; 
+}
+
+#symbol-output {
+  height: 500px;
+  width: 568.5px;
+  border-radius:5px; 
+}
+
+.button{
+  display: flex;
+}
+
+#input-button {
+  margin-left: 30px;
+}
+
+.twitter-share-button {
+  margin-left: 20px;
+  margin-top: 5px;
+}
+
+::placeholder {
+  font-size: 1.5em;
+}
